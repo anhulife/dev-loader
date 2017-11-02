@@ -15,7 +15,7 @@ npm install dev-loader --save-dev
 console.log('foo');
 
 // bar.js
-import 'dev-loader?./foo.js';
+import 'dev-loader!./foo.js';
 console.log('bar');
 ```
 
