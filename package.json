@@ -1,4 +1,5 @@
 {
   "name": "dev-loader",
+  "version": "0.1.0",
   "description": "only load file in development"
 }
